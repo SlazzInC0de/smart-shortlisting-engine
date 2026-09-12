@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resume>
+  <applicant>
+    <name>Yash Choudhary</name>
+    <targetRole>IT Support</targetRole>
+    <phone>+91 98123 45625</phone>
+    <email>yash.choudhary2024@gmail.com</email>
+    <linkedin>linkedin.com/in/yashchoudhary-dev</linkedin>
+    <github>github.com/yashchoudhary-dev</github>
+    <location>Pune, Maharashtra</location>
+  </applicant>
+  <summary>Reliable and technically-minded B.Tech student with hands-on experience troubleshooting hardware, software, and network issues. Strong understanding of system administration fundamentals and customer-facing support. Seeking an IT Support Internship to apply problem-solving skills in a live environment.</summary>
+  <education>
+    <degree>Bachelor of Computer Applications</degree>
+    <dates>2023 – 2026 (Expected)</dates>
+    <school>Modern College of Arts, Science and Commerce, Pune</school>
+    <cgpa>CGPA: 8.3 / 10.0</cgpa>
+    <coursework>Relevant Coursework: Computer Networks, Operating Systems, Hardware Fundamentals, System Administration, Database Management</coursework>
+  </education>
+  <technicalSkills>
+    <skillGroup category="Core Skills">Troubleshooting, Hardware/Software Support, Network Basics, Ticketing Systems</skillGroup>
+    <skillGroup category="Tools">Windows/Linux Administration, Active Directory (basic), Remote Desktop Tools</skillGroup>
+    <skillGroup category="Other">Office 365 Administration, Basic Networking (TCP/IP, DNS, DHCP)</skillGroup>
+    <skillGroup category="Soft Skills">Customer Service, Documentation, Patience</skillGroup>
+  </technicalSkills>
+  <experience>
+    <title>IT Support Intern — Synapse Analytics Pvt. Ltd., Pune</title>
+    <dates>June 2024 – July 2024</dates>
+    <bullets>
+      <bullet>Resolved 200+ helpdesk tickets covering hardware, software, and network connectivity issues.</bullet>
+      <bullet>Set up and configured 40+ employee workstations, reducing onboarding setup time by 30%.</bullet>
+      <bullet>Maintained IT asset inventory and documentation, improving audit readiness.</bullet>
+    </bullets>
+  </experience>
+  <projects>
+    <project>
+      <title>Campus Lab Network Setup</title>
+      <stack>Networking, Windows Server</stack>
+      <dates>Jan 2024 – Mar 2024</dates>
+      <bullets>
+        <bullet>Assisted in setting up a 30-machine computer lab with shared printers and domain access.</bullet>
+        <bullet>Configured DHCP and basic firewall rules, reducing connectivity complaints by 50%.</bullet>
+      </bullets>
+    </project>
+    <project>
+      <title>IT Helpdesk Ticketing Tool</title>
+      <stack>Python, Flask, SQLite</stack>
+      <dates>Sep 2023 – Nov 2023</dates>
+      <bullets>
+        <bullet>Built a lightweight ticketing system for tracking and resolving internal IT requests.</bullet>
+        <bullet>Reduced average ticket resolution tracking time by 20% through status automation.</bullet>
+      </bullets>
+    </project>
+    <project>
+      <title>Hardware Troubleshooting Workshop</title>
+      <stack>Hardware Diagnostics</stack>
+      <dates>Jul 2023 – Aug 2023</dates>
+      <bullets>
+        <bullet>Organised a workshop teaching 50+ students basic hardware diagnostics and repair.</bullet>
+        <bullet>Created a troubleshooting flowchart adopted as a reference guide by the college lab.</bullet>
+      </bullets>
+    </project>
+  </projects>
+  <certifications>
+    <certification>
+      <title>Google IT Support Professional Certificate</title>
+      <issuer>Coursera</issuer>
+      <date>Completed: Aug 2023</date>
+    </certification>
+    <certification>
+      <title>Computer Networks, Score: 83/100</title>
+      <issuer>NPTEL (IIT Madras)</issuer>
+      <date>Completed: Nov 2023</date>
+    </certification>
+    <certification>
+      <title>Introduction to Operating Systems</title>
+      <issuer>IBM / Coursera</issuer>
+      <date>Completed: May 2023</date>
+    </certification>
+  </certifications>
+  <achievements>
+    <achievement>Selected among 80 students college-wide for the Smart India Hackathon (SIH 2024) internal round.</achievement>
+    <achievement>Received the Academic Excellence Award for Semester 2 with the highest GPA (9.3) in the CSE department cohort of 120 students.</achievement>
+    <achievement>Active contributor to two college-wide technical fests, coordinating logistics and technical sessions for 150+ participants.</achievement>
+  </achievements>
+  <extracurricular>
+    <activity>Core Member, Technical Club, VIT Pune — organised hands-on workshops for 150+ students (2023–Present).</activity>
+    <activity>Technical Blogger — published articles on Medium covering tools and best practices relevant to the field; collectively read 4,000+ times.</activity>
+    <activity>Volunteer Mentor, CodeForGood (NGO Initiative) — guided 15 high school students through technology fundamentals over an 8-week programme.</activity>
+  </extracurricular>
+</resume>

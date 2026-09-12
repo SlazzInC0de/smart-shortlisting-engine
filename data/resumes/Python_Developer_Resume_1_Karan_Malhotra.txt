@@ -1,0 +1,110 @@
+KARAN MALHOTRA
+
+Aspiring Python Developer
+
++91 98123 45605 | karan.malhotra2024@gmail.com |
+linkedin.com/in/karanmalhotra-dev | github.com/karanmalhotra-dev | Pune,
+Maharashtra
+
+PROFESSIONAL SUMMARY
+
+Motivated B.Tech Computer Science student with a strong command of
+Python for backend development, scripting, and automation. Experienced
+in building APIs, data pipelines, and scalable backend services. Seeking
+a Python Developer Internship to apply and grow these skills.
+
+EDUCATION
+
+Bachelor of Technology — Computer Science & Engineering | 2023 – 2027
+(Expected)
+
+Symbiosis Institute of Technology, Pune CGPA: 9.0 / 10.0
+
+Relevant Coursework: Programming in Python, Data Structures, Algorithms,
+DBMS, Operating Systems
+
+TECHNICAL SKILLS
+
+Languages: Python, SQL, Bash
+
+Frameworks: Django, Flask, FastAPI
+
+Data & Tools: Pandas, NumPy, Celery, Redis
+
+DevOps & Platforms: Git, GitHub, Docker, Linux, PostgreSQL, MySQL, REST
+APIs
+
+EXPERIENCE
+
+Python Developer Intern — Synapse Analytics Pvt. Ltd., Pune | June 2024
+– July 2024
+
+-   Developed and maintained REST APIs using Django REST Framework for
+    an internal reporting tool.
+
+-   Wrote automation scripts that reduced manual data-entry workload by
+    40%.
+
+-   Optimised PostgreSQL queries, improving average response time by
+    25%.
+
+PROJECTS
+
+Inventory Management System | Python, Django, PostgreSQL Jan 2024 – Mar
+2024
+
+-   Built a multi-user inventory system with role-based dashboards and
+    stock alerts.
+
+-   Designed normalized database schema reducing data redundancy by 30%.
+
+-   Implemented automated email notifications using Celery and Redis.
+
+Web Scraping & Data Pipeline | Python, Scrapy, Pandas, PostgreSQL Sep
+2023 – Nov 2023
+
+-   Built a scalable scraper collecting 50,000+ records daily from
+    public sources.
+
+-   Automated cleaning and loading pipeline, cutting manual processing
+    time by 60%.
+
+URL Shortener API | Python, FastAPI, Redis Jul 2023 – Aug 2023
+
+-   Built a high-performance URL shortening service handling 1,000+
+    requests/min.
+
+-   Used Redis caching to reduce average response latency to under 50ms.
+
+CERTIFICATIONS
+
+Python for Everybody Specialization — Coursera Completed: Aug 2023
+
+Programming, Data Structures and Algorithms using Python, Score: 88/100
+— NPTEL (IIT Madras) Completed: Nov 2023
+
+Python for Data Science and AI — IBM / Coursera Completed: May 2023
+
+ACHIEVEMENTS & AWARDS
+
+-   Selected among 80 students college-wide for the Smart India
+    Hackathon (SIH 2024) internal round.
+
+-   Received the Academic Excellence Award for Semester 2 with the
+    highest GPA (9.3) in the CSE department cohort of 120 students.
+
+-   Active contributor to two college-wide technical fests, coordinating
+    logistics and technical sessions for 150+ participants.
+
+EXTRACURRICULAR ACTIVITIES
+
+-   Core Member, Technical Club, VIT Pune — organised hands-on workshops
+    for 150+ students (2023–Present).
+
+-   Technical Blogger — published articles on Medium covering tools and
+    best practices relevant to the field; collectively read 4,000+
+    times.
+
+-   Volunteer Mentor, CodeForGood (NGO Initiative) — guided 15 high
+    school students through technology fundamentals over an 8-week
+    programme.

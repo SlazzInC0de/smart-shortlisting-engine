@@ -1,0 +1,112 @@
+NIKHIL DESAI
+
+Aspiring Data Scientist
+
++91 98123 45613 | nikhil.desai2024@gmail.com |
+linkedin.com/in/nikhildesai-dev | github.com/nikhildesai-dev | Pune,
+Maharashtra
+
+PROFESSIONAL SUMMARY
+
+Motivated B.Tech Computer Science student with a strong analytical
+foundation in statistics, machine learning, and data visualization.
+Experienced in extracting actionable insights from complex datasets.
+Seeking a Data Scientist Internship to apply data-driven problem solving
+in a real-world setting.
+
+EDUCATION
+
+Bachelor of Technology — Computer Science & Engineering (Data Science) |
+2023 – 2027 (Expected)
+
+Vishwakarma Institute of Technology, Pune CGPA: 9.0 / 10.0
+
+Relevant Coursework: Statistics, Machine Learning, Data Visualization,
+Big Data Fundamentals, Linear Algebra
+
+TECHNICAL SKILLS
+
+Languages: Python, R, SQL
+
+ML & Stats: Scikit-learn, Statsmodels, Hypothesis Testing, Regression,
+Classification
+
+Visualization & Tools: Pandas, NumPy, Matplotlib, Seaborn, Power BI,
+Tableau
+
+Platforms: Jupyter Notebook, Git, GitHub, Google Colab
+
+EXPERIENCE
+
+Data Science Intern — Synapse Analytics Pvt. Ltd., Pune | June 2024 –
+July 2024
+
+-   Built predictive models for customer churn, achieving 84% accuracy
+    and informing retention strategy.
+
+-   Cleaned and analysed datasets of 50,000+ rows, identifying key
+    drivers of business KPIs.
+
+-   Created interactive Power BI dashboards adopted by 3 business teams
+    for weekly reporting.
+
+PROJECTS
+
+Customer Churn Prediction | Python, Scikit-learn, XGBoost Jan 2024 – Mar
+2024
+
+-   Built a churn prediction model achieving 86% F1-score on imbalanced
+    data using SMOTE.
+
+-   Identified top 5 churn drivers through SHAP-based feature importance
+    analysis.
+
+Sales Forecasting Dashboard | Python, Prophet, Power BI Sep 2023 – Nov
+2023
+
+-   Built a time-series forecasting model with under 8% MAPE on monthly
+    sales data.
+
+-   Designed an interactive dashboard for stakeholders to explore
+    forecasts by region.
+
+Exploratory Data Analysis on Public Health Data | Python, Pandas,
+Seaborn Jul 2023 – Aug 2023
+
+-   Conducted EDA on a 100,000-record public health dataset, surfacing 6
+    key correlations.
+
+-   Presented findings via a structured report and visualization deck.
+
+CERTIFICATIONS
+
+IBM Data Science Professional Certificate — Coursera Completed: Aug 2023
+
+Statistics for Data Science, Score: 87/100 — NPTEL (IIT Madras)
+Completed: Nov 2023
+
+Python for Data Science and AI — IBM / Coursera Completed: May 2023
+
+ACHIEVEMENTS & AWARDS
+
+-   Selected among 80 students college-wide for the Smart India
+    Hackathon (SIH 2024) internal round.
+
+-   Received the Academic Excellence Award for Semester 2 with the
+    highest GPA (9.3) in the CSE department cohort of 120 students.
+
+-   Active contributor to two college-wide technical fests, coordinating
+    logistics and technical sessions for 150+ participants.
+
+EXTRACURRICULAR ACTIVITIES
+
+-   Core Member, Technical Club, VIT Pune — organised hands-on workshops
+    for 150+ students (2023–Present).
+
+-   Technical Blogger — published articles on Medium covering tools and
+    best practices relevant to the field; collectively read 4,000+
+    times.
+
+-   Volunteer Mentor, CodeForGood (NGO Initiative) — guided 15 high
+    school students through technology fundamentals over an 8-week
+    programme.

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resume>
+  <applicant>
+    <name>Neha Bhatia</name>
+    <targetRole>Content Creation</targetRole>
+    <phone>+91 98123 45620</phone>
+    <email>neha.bhatia2024@gmail.com</email>
+    <linkedin>linkedin.com/in/nehabhatia-dev</linkedin>
+    <github>github.com/nehabhatia-dev</github>
+    <location>Pune, Maharashtra</location>
+  </applicant>
+  <summary>Creative and versatile B.Tech student experienced in writing, scripting, and producing content across blogs, social media, and video formats. Skilled at translating technical and lifestyle topics into engaging content. Seeking a Content Creation Internship to grow brand voice and audience reach.</summary>
+  <education>
+    <degree>Bachelor of Mass Media — Journalism &amp; Communication</degree>
+    <dates>2022 – 2025 (Expected)</dates>
+    <school>Symbiosis Institute of Media and Communication, Pune</school>
+    <cgpa>CGPA: 8.45 / 10.0</cgpa>
+    <coursework>Relevant Coursework: Feature Writing, Editorial Design, Media Research, SEO Writing, Public Relations</coursework>
+  </education>
+  <technicalSkills>
+    <skillGroup category="Content Types">Blog Writing, Scriptwriting, Social Captions, Newsletters</skillGroup>
+    <skillGroup category="Tools">Canva, Notion, Grammarly, WordPress, CapCut</skillGroup>
+    <skillGroup category="Skills">SEO Basics, Storytelling, Research, Editorial Calendars</skillGroup>
+    <skillGroup category="Other">Basic Photography, Audacity (Podcast Editing)</skillGroup>
+  </technicalSkills>
+  <experience>
+    <title>Content Creation Intern — Synapse Analytics Pvt. Ltd., Pune</title>
+    <dates>June 2024 – July 2024</dates>
+    <bullets>
+      <bullet>Wrote 15+ blog articles on AI and tech trends, increasing organic blog traffic by 30%.</bullet>
+      <bullet>Scripted short-form videos for social channels, contributing to a 20% rise in engagement.</bullet>
+      <bullet>Maintained an editorial calendar coordinating content across 3 platforms.</bullet>
+    </bullets>
+  </experience>
+  <projects>
+    <project>
+      <title>Tech Blog Series</title>
+      <stack>WordPress, SEO</stack>
+      <dates>Jan 2024 – Mar 2024</dates>
+      <bullets>
+        <bullet>Published 10 SEO-optimised articles on ML and career topics, reaching 4,200+ reads on Medium.</bullet>
+        <bullet>Researched and fact-checked technical content for accuracy and clarity.</bullet>
+      </bullets>
+    </project>
+    <project>
+      <title>Brand Newsletter Revamp</title>
+      <stack>Notion, Mailchimp</stack>
+      <dates>Sep 2023 – Nov 2023</dates>
+      <bullets>
+        <bullet>Redesigned a monthly newsletter format, increasing open rate from 18% to 32%.</bullet>
+        <bullet>Wrote concise, engaging copy tailored to a student audience.</bullet>
+      </bullets>
+    </project>
+    <project>
+      <title>Campus Podcast Series</title>
+      <stack>Audacity, Canva</stack>
+      <dates>Jul 2023 – Aug 2023</dates>
+      <bullets>
+        <bullet>Co-produced a 6-episode podcast on student entrepreneurship, scripted and edited each episode.</bullet>
+        <bullet>Promoted episodes via social teasers, growing listenership steadily across the series.</bullet>
+      </bullets>
+    </project>
+  </projects>
+  <certifications>
+    <certification>
+      <title>Content Strategy for Professionals — Northwestern University</title>
+      <issuer>Coursera</issuer>
+      <date>Completed: Aug 2023</date>
+    </certification>
+    <certification>
+      <title>Writing for the Web, Score: 84/100</title>
+      <issuer>NPTEL (IIT Madras)</issuer>
+      <date>Completed: Nov 2023</date>
+    </certification>
+    <certification>
+      <title>Google Digital Marketing &amp; E-commerce</title>
+      <issuer>IBM / Coursera</issuer>
+      <date>Completed: May 2023</date>
+    </certification>
+  </certifications>
+  <achievements>
+    <achievement>Selected among 80 students college-wide for the Smart India Hackathon (SIH 2024) internal round.</achievement>
+    <achievement>Received the Academic Excellence Award for Semester 2 with the highest GPA (9.3) in the CSE department cohort of 120 students.</achievement>
+    <achievement>Active contributor to two college-wide technical fests, coordinating logistics and technical sessions for 150+ participants.</achievement>
+  </achievements>
+  <extracurricular>
+    <activity>Core Member, Technical Club, VIT Pune — organised hands-on workshops for 150+ students (2023–Present).</activity>
+    <activity>Technical Blogger — published articles on Medium covering tools and best practices relevant to the field; collectively read 4,000+ times.</activity>
+    <activity>Volunteer Mentor, CodeForGood (NGO Initiative) — guided 15 high school students through technology fundamentals over an 8-week programme.</activity>
+  </extracurricular>
+</resume>

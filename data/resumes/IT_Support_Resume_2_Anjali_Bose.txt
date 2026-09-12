@@ -1,0 +1,113 @@
+ANJALI BOSE
+
+Aspiring IT Support
+
++91 98123 45626 | anjali.bose2024@gmail.com |
+linkedin.com/in/anjalibose-dev | github.com/anjalibose-dev | Pune,
+Maharashtra
+
+PROFESSIONAL SUMMARY
+
+Reliable and technically-minded B.Tech student with hands-on experience
+troubleshooting hardware, software, and network issues. Strong
+understanding of system administration fundamentals and customer-facing
+support. Seeking an IT Support Internship to apply problem-solving
+skills in a live environment.
+
+EDUCATION
+
+Bachelor of Science — Information Technology | 2022 – 2025 (Expected)
+
+Sir Parashurambhau College, Pune CGPA: 8.15 / 10.0
+
+Relevant Coursework: Network Administration, Troubleshooting &
+Diagnostics, IT Service Management, Operating Systems, Cybersecurity
+Basics
+
+TECHNICAL SKILLS
+
+Core Skills: Troubleshooting, Hardware/Software Support, Network Basics,
+Ticketing Systems
+
+Tools: Windows/Linux Administration, Active Directory (basic), Remote
+Desktop Tools
+
+Other: Office 365 Administration, Basic Networking (TCP/IP, DNS, DHCP)
+
+Soft Skills: Customer Service, Documentation, Patience
+
+EXPERIENCE
+
+IT Support Intern — Synapse Analytics Pvt. Ltd., Pune | June 2024 – July
+2024
+
+-   Resolved 200+ helpdesk tickets covering hardware, software, and
+    network connectivity issues.
+
+-   Set up and configured 40+ employee workstations, reducing onboarding
+    setup time by 30%.
+
+-   Maintained IT asset inventory and documentation, improving audit
+    readiness.
+
+PROJECTS
+
+Campus Lab Network Setup | Networking, Windows Server Jan 2024 – Mar
+2024
+
+-   Assisted in setting up a 30-machine computer lab with shared
+    printers and domain access.
+
+-   Configured DHCP and basic firewall rules, reducing connectivity
+    complaints by 50%.
+
+IT Helpdesk Ticketing Tool | Python, Flask, SQLite Sep 2023 – Nov 2023
+
+-   Built a lightweight ticketing system for tracking and resolving
+    internal IT requests.
+
+-   Reduced average ticket resolution tracking time by 20% through
+    status automation.
+
+Hardware Troubleshooting Workshop | Hardware Diagnostics Jul 2023 – Aug
+2023
+
+-   Organised a workshop teaching 50+ students basic hardware
+    diagnostics and repair.
+
+-   Created a troubleshooting flowchart adopted as a reference guide by
+    the college lab.
+
+CERTIFICATIONS
+
+Google IT Support Professional Certificate — Coursera Completed: Aug
+2023
+
+Computer Networks, Score: 83/100 — NPTEL (IIT Madras) Completed: Nov
+2023
+
+Introduction to Operating Systems — IBM / Coursera Completed: May 2023
+
+ACHIEVEMENTS & AWARDS
+
+-   Selected among 80 students college-wide for the Smart India
+    Hackathon (SIH 2024) internal round.
+
+-   Received the Academic Excellence Award for Semester 2 with the
+    highest GPA (9.3) in the CSE department cohort of 120 students.
+
+-   Active contributor to two college-wide technical fests, coordinating
+    logistics and technical sessions for 150+ participants.
+
+EXTRACURRICULAR ACTIVITIES
+
+-   Core Member, Technical Club, VIT Pune — organised hands-on workshops
+    for 150+ students (2023–Present).
+
+-   Technical Blogger — published articles on Medium covering tools and
+    best practices relevant to the field; collectively read 4,000+
+    times.
+
+-   Volunteer Mentor, CodeForGood (NGO Initiative) — guided 15 high
+    school students through technology fundamentals over an 8-week
+    programme.

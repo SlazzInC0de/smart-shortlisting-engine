@@ -1,0 +1,113 @@
+VIKRAM NAIR
+
+Aspiring Cyber Security
+
++91 98123 45607 | vikram.nair2024@gmail.com |
+linkedin.com/in/vikramnair-dev | github.com/vikramnair-dev | Pune,
+Maharashtra
+
+PROFESSIONAL SUMMARY
+
+Motivated B.Tech Computer Science student with a strong interest in
+network security, ethical hacking, and vulnerability assessment.
+Hands-on experience with penetration testing tools and secure coding
+practices. Seeking a Cyber Security Internship to contribute to
+real-world security operations.
+
+EDUCATION
+
+Bachelor of Technology — Cyber Security | 2023 – 2027 (Expected)
+
+Dr. Vishwanath Karad MIT World Peace University, Pune CGPA: 8.7 / 10.0
+
+Relevant Coursework: Network Security, Cryptography, Ethical Hacking,
+Digital Forensics, Operating Systems
+
+TECHNICAL SKILLS
+
+Languages: Python, Bash, SQL
+
+Security Tools: Nmap, Wireshark, Burp Suite, Metasploit, OWASP ZAP
+
+Concepts: Network Security, Vulnerability Assessment, Penetration
+Testing, Cryptography
+
+Platforms: Linux, Kali Linux, Git, GitHub, AWS (basic)
+
+EXPERIENCE
+
+Cyber Security Intern — Synapse Analytics Pvt. Ltd., Pune | June 2024 –
+July 2024
+
+-   Performed vulnerability assessments on internal web applications,
+    identifying 12 medium/high-risk issues.
+
+-   Assisted in configuring firewall and IDS rules, reducing
+    false-positive alerts by 20%.
+
+-   Documented security findings and remediation steps in formal reports
+    for the engineering team.
+
+PROJECTS
+
+Web Application Penetration Testing Lab | Burp Suite, OWASP ZAP, Python
+Jan 2024 – Mar 2024
+
+-   Set up a vulnerable web app lab and performed testing against OWASP
+    Top 10 vulnerabilities.
+
+-   Identified and documented SQL injection and XSS vulnerabilities with
+    proof-of-concept exploits.
+
+-   Proposed mitigations including input validation and parameterized
+    queries.
+
+Network Intrusion Detection System | Python, Scapy, Wireshark Sep 2023 –
+Nov 2023
+
+-   Built a rule-based IDS to detect port scans and ARP spoofing in real
+    time.
+
+-   Achieved 90% detection accuracy on simulated attack traffic.
+
+Password Strength & Breach Checker Tool | Python, Hashlib,
+HaveIBeenPwned API Jul 2023 – Aug 2023
+
+-   Built a CLI tool evaluating password strength and checking for known
+    data breaches.
+
+-   Used secure hashing practices to avoid storing plaintext
+    credentials.
+
+CERTIFICATIONS
+
+Google Cybersecurity Professional Certificate — Coursera Completed: Aug
+2023
+
+Ethical Hacking, Score: 84/100 — NPTEL (IIT Madras) Completed: Nov 2023
+
+Introduction to Cyber Security — IBM / Coursera Completed: May 2023
+
+ACHIEVEMENTS & AWARDS
+
+-   Selected among 80 students college-wide for the Smart India
+    Hackathon (SIH 2024) internal round.
+
+-   Received the Academic Excellence Award for Semester 2 with the
+    highest GPA (9.3) in the CSE department cohort of 120 students.
+
+-   Active contributor to two college-wide technical fests, coordinating
+    logistics and technical sessions for 150+ participants.
+
+EXTRACURRICULAR ACTIVITIES
+
+-   Core Member, Technical Club, VIT Pune — organised hands-on workshops
+    for 150+ students (2023–Present).
+
+-   Technical Blogger — published articles on Medium covering tools and
+    best practices relevant to the field; collectively read 4,000+
+    times.
+
+-   Volunteer Mentor, CodeForGood (NGO Initiative) — guided 15 high
+    school students through technology fundamentals over an 8-week
+    programme.

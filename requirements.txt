@@ -1,0 +1,6 @@
+pdfplumber>=0.11.4
+sentence-transformers>=3.0.1
+scikit-learn>=1.6.0
+numpy>=2.0.0
+pandas>=2.2.0
+streamlit>=1.37.0

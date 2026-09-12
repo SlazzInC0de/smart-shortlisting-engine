@@ -1,0 +1,109 @@
+MEERA PILLAI
+
+Aspiring SDE
+
++91 98123 45610 | meera.pillai2024@gmail.com |
+linkedin.com/in/meerapillai-dev | github.com/meerapillai-dev | Pune,
+Maharashtra
+
+PROFESSIONAL SUMMARY
+
+Motivated B.Tech Computer Science student with strong fundamentals in
+data structures, algorithms, and system design. Experienced in building
+scalable backend systems and solving complex engineering problems.
+Seeking a Software Development Engineer Internship.
+
+EDUCATION
+
+Bachelor of Engineering — Computer Science | 2022 – 2026 (Expected)
+
+Cummins College of Engineering for Women, Pune CGPA: 8.95 / 10.0
+
+Relevant Coursework: Advanced Algorithms, Distributed Systems, Database
+Systems, Software Engineering, OOP
+
+TECHNICAL SKILLS
+
+Languages: Java, Python, C++, SQL
+
+Concepts: Data Structures & Algorithms, OOP, System Design,
+Multithreading
+
+Frameworks & Tools: Spring Boot, REST APIs, JUnit, Git, GitHub
+
+Databases & Platforms: MySQL, MongoDB, Docker, Linux, AWS (basic)
+
+EXPERIENCE
+
+Software Engineering Intern — Synapse Analytics Pvt. Ltd., Pune | June
+2024 – July 2024
+
+-   Designed and implemented backend microservices using Spring Boot,
+    serving 10,000+ daily requests.
+
+-   Wrote unit and integration tests improving code coverage from 60% to
+    85%.
+
+-   Participated in code reviews and sprint planning following Agile
+    methodology.
+
+PROJECTS
+
+Distributed Task Scheduler | Java, Spring Boot, MySQL, RabbitMQ Jan 2024
+– Mar 2024
+
+-   Designed a distributed task scheduling system supporting retries and
+    priority queues.
+
+-   Achieved 99.5% task completion reliability under simulated load.
+
+Library Management REST API | Java, Spring Boot, MySQL Sep 2023 – Nov
+2023
+
+-   Built a RESTful API with JWT authentication and role-based access
+    control.
+
+-   Wrote comprehensive JUnit test suites covering 90%+ of business
+    logic.
+
+Competitive Programming Portfolio | C++, Algorithms Ongoing
+
+-   Solved 600+ problems across Codeforces and LeetCode, specializing in
+    graphs and DP.
+
+-   Achieved a rating in the top 10% on Codeforces Div 2 contests.
+
+CERTIFICATIONS
+
+Object Oriented Data Structures in C++ — University of Illinois —
+Coursera Completed: Aug 2023
+
+Data Structures and Algorithms, Score: 89/100 — NPTEL (IIT Madras)
+Completed: Nov 2023
+
+Programming Foundations with JavaScript, HTML and CSS — IBM / Coursera
+Completed: May 2023
+
+ACHIEVEMENTS & AWARDS
+
+-   Selected among 80 students college-wide for the Smart India
+    Hackathon (SIH 2024) internal round.
+
+-   Received the Academic Excellence Award for Semester 2 with the
+    highest GPA (9.3) in the CSE department cohort of 120 students.
+
+-   Active contributor to two college-wide technical fests, coordinating
+    logistics and technical sessions for 150+ participants.
+
+EXTRACURRICULAR ACTIVITIES
+
+-   Core Member, Technical Club, VIT Pune — organised hands-on workshops
+    for 150+ students (2023–Present).
+
+-   Technical Blogger — published articles on Medium covering tools and
+    best practices relevant to the field; collectively read 4,000+
+    times.
+
+-   Volunteer Mentor, CodeForGood (NGO Initiative) — guided 15 high
+    school students through technology fundamentals over an 8-week
+    programme.

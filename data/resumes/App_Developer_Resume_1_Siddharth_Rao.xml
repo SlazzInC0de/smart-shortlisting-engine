@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resume>
+  <applicant>
+    <name>Siddharth Rao</name>
+    <targetRole>App Developer</targetRole>
+    <phone>+91 98123 45611</phone>
+    <email>siddharth.rao2024@gmail.com</email>
+    <linkedin>linkedin.com/in/siddharthrao-dev</linkedin>
+    <github>github.com/siddharthrao-dev</github>
+    <location>Pune, Maharashtra</location>
+  </applicant>
+  <summary>Motivated B.Tech Computer Science student passionate about mobile application development. Experienced in building cross-platform apps using Flutter and React Native with clean, maintainable architecture. Seeking an App Developer Internship to build user-centric mobile products.</summary>
+  <education>
+    <degree>Bachelor of Technology — Information Technology</degree>
+    <dates>2023 – 2027 (Expected)</dates>
+    <school>D.Y. Patil College of Engineering, Pune</school>
+    <cgpa>CGPA: 8.4 / 10.0</cgpa>
+    <coursework>Relevant Coursework: Mobile Application Development, Android Programming, UI/UX Design, DBMS, Cloud Basics</coursework>
+  </education>
+  <technicalSkills>
+    <skillGroup category="Languages">Dart, Kotlin, JavaScript, Python</skillGroup>
+    <skillGroup category="Frameworks">Flutter, React Native, Android SDK</skillGroup>
+    <skillGroup category="Backend &amp; Tools">Firebase, REST APIs, SQLite, Git, GitHub</skillGroup>
+    <skillGroup category="Platforms">Android Studio, Xcode (basic), Play Console, Postman</skillGroup>
+  </technicalSkills>
+  <experience>
+    <title>Mobile App Development Intern — Synapse Analytics Pvt. Ltd., Pune</title>
+    <dates>June 2024 – July 2024</dates>
+    <bullets>
+      <bullet>Developed UI screens and state management logic for a Flutter-based internal field-reporting app.</bullet>
+      <bullet>Integrated Firebase Authentication and Firestore, reducing backend setup time by 50%.</bullet>
+      <bullet>Fixed 25+ UI/performance bugs, improving app crash-free rate to 98%.</bullet>
+    </bullets>
+  </experience>
+  <projects>
+    <project>
+      <title>Campus Event Management App</title>
+      <stack>Flutter, Firebase</stack>
+      <dates>Jan 2024 – Mar 2024</dates>
+      <bullets>
+        <bullet>Built a cross-platform app for event discovery, RSVP, and push notifications.</bullet>
+        <bullet>Used Firestore for real-time updates across 500+ simulated users.</bullet>
+        <bullet>Published a working APK with 4.5+ rating in internal testing.</bullet>
+      </bullets>
+    </project>
+    <project>
+      <title>Personal Finance Tracker App</title>
+      <stack>Flutter, SQLite, Provider</stack>
+      <dates>Sep 2023 – Nov 2023</dates>
+      <bullets>
+        <bullet>Built an offline-first expense tracker with category-wise analytics and charts.</bullet>
+        <bullet>Implemented local notifications for budget alerts.</bullet>
+      </bullets>
+    </project>
+    <project>
+      <title>Fitness Tracking App</title>
+      <stack>React Native, Firebase</stack>
+      <dates>Jul 2023 – Aug 2023</dates>
+      <bullets>
+        <bullet>Built a step-counter and workout-logging app using device sensors.</bullet>
+        <bullet>Synced data across devices using Firebase Realtime Database.</bullet>
+      </bullets>
+    </project>
+  </projects>
+  <certifications>
+    <certification>
+      <title>Meta Android Developer Professional Certificate</title>
+      <issuer>Coursera</issuer>
+      <date>Completed: Aug 2023</date>
+    </certification>
+    <certification>
+      <title>Mobile Application Development, Score: 86/100</title>
+      <issuer>NPTEL (IIT Madras)</issuer>
+      <date>Completed: Nov 2023</date>
+    </certification>
+    <certification>
+      <title>Programming Foundations with JavaScript, HTML and CSS</title>
+      <issuer>IBM / Coursera</issuer>
+      <date>Completed: May 2023</date>
+    </certification>
+  </certifications>
+  <achievements>
+    <achievement>Selected among 80 students college-wide for the Smart India Hackathon (SIH 2024) internal round.</achievement>
+    <achievement>Received the Academic Excellence Award for Semester 2 with the highest GPA (9.3) in the CSE department cohort of 120 students.</achievement>
+    <achievement>Active contributor to two college-wide technical fests, coordinating logistics and technical sessions for 150+ participants.</achievement>
+  </achievements>
+  <extracurricular>
+    <activity>Core Member, Technical Club, VIT Pune — organised hands-on workshops for 150+ students (2023–Present).</activity>
+    <activity>Technical Blogger — published articles on Medium covering tools and best practices relevant to the field; collectively read 4,000+ times.</activity>
+    <activity>Volunteer Mentor, CodeForGood (NGO Initiative) — guided 15 high school students through technology fundamentals over an 8-week programme.</activity>
+  </extracurricular>
+</resume>
