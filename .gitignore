@@ -20,6 +20,3 @@ Thumbs.db
 # Editor
 .vscode/
 .idea/
-
-# Local tool state -- not part of the project
-.claude/
