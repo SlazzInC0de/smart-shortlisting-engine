@@ -107,7 +107,7 @@ smart-shortlisting-engine/
 
 ## 🏆 Hackathon
 
-The original submission, project report and AI-usage chart required by the organizers are in [`docs/hackathon/`](docs/hackathon/).
+The original submission and project report are in [`docs/hackathon/`](docs/hackathon/).
 
 ## 📄 License
 
