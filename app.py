@@ -608,7 +608,8 @@ with tab_leaderboard:
                 ),
                 y=alt.Y(
                     "Candidate:N",
-                    sort="-x",
+                    # Explicit order: layered charts drop sort="-x" and fall back to A-Z.
+                    sort=df_chart.sort_values("Final Score", ascending=False)["Candidate"].tolist(),
                     title=None,
                     axis=alt.Axis(labelLimit=220, labelFontSize=11, labelFontWeight="bold"),
                 ),

@@ -34,7 +34,6 @@ jobs:
               pg.wait_for_selector("text=Smart Shortlisting Engine", timeout=300000)
               time.sleep(60)
               pg.screenshot(path="docs/dashboard.png")
-              pg.screenshot(path="docs/dashboard_full.png", full_page=True)
               b.close()
           PY
           tail -20 app.log
