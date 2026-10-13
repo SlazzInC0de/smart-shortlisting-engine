@@ -1,4 +1,4 @@
-"""Nexora - Smart Shortlisting & Resume Intelligence Engine.
+"""TalentLens - Smart Shortlisting & Resume Intelligence Engine.
 
 Presentation layer: executive analytics, multi-metric candidate comparison,
 skills gap matrix, and detailed candidate explanations.
@@ -43,7 +43,7 @@ CHART_DISPLAY_LIMIT = 20
 # Page Configuration & Styling
 # -----------------------------------------------------------------------------
 st.set_page_config(
-    page_title="Nexora | Smart Shortlisting Engine",
+    page_title="TalentLens | Smart Shortlisting Engine",
     page_icon="N",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -71,12 +71,12 @@ st.markdown(
     }
 
     /* Header -- plain title treatment, no card/box */
-    .nexora-title-wrap {
+    .tl-title-wrap {
         padding: 0.2rem 0 1.1rem 0;
         margin-bottom: 1.4rem;
         border-bottom: 1px solid #e2e8f0;
     }
-    .nexora-title {
+    .tl-title {
         font-family: Georgia, 'Iowan Old Style', 'Palatino Linotype', Palatino, serif;
         font-size: 2.15rem;
         font-weight: 700;
@@ -85,15 +85,15 @@ st.markdown(
         margin: 0;
         line-height: 1.2;
     }
-    .nexora-title .accent {
+    .tl-title .accent {
         color: #2563eb;
     }
-    .nexora-tagline {
+    .tl-tagline {
         font-size: 0.92rem;
         color: #64748b;
         margin: 0.5rem 0 0 0;
     }
-    .nexora-meta {
+    .tl-meta {
         font-size: 0.72rem;
         font-weight: 600;
         letter-spacing: 0.06em;
@@ -387,10 +387,10 @@ def _highlight_ranking_rows(row):
 # -----------------------------------------------------------------------------
 st.markdown(
     """
-    <div class="nexora-title-wrap">
-        <h1 class="nexora-title">Nexora <span class="accent">Smart Shortlisting Engine</span></h1>
-        <p class="nexora-tagline">AI candidate ranking combining exact skill parsing and semantic context matching. Fully local and privacy-first.</p>
-        <p class="nexora-meta">Hybrid NLP Engine &nbsp;&middot;&nbsp; Local Embeddings (all-MiniLM-L6-v2) &nbsp;&middot;&nbsp; Zero External API Calls</p>
+    <div class="tl-title-wrap">
+        <h1 class="tl-title">TalentLens <span class="accent">Smart Shortlisting Engine</span></h1>
+        <p class="tl-tagline">AI candidate ranking combining exact skill parsing and semantic context matching. Fully local and privacy-first.</p>
+        <p class="tl-meta">Hybrid NLP Engine &nbsp;&middot;&nbsp; Local Embeddings (all-MiniLM-L6-v2) &nbsp;&middot;&nbsp; Zero External API Calls</p>
     </div>
     """,
     unsafe_allow_html=True,

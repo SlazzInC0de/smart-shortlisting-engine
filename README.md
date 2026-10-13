@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 Nexora: Smart Shortlisting Engine
+# 🎯 TalentLens: Smart Shortlisting Engine
 
 ### Hybrid AI resume-to-JD ranking, fully offline
 
@@ -15,7 +15,7 @@ Built for the **InternLoom AI Hackathon** at MIT Bengaluru.
 ![Streamlit](https://img.shields.io/badge/Streamlit-0f172a?logo=streamlit&logoColor=FF4B4B)
 ![Privacy](https://img.shields.io/badge/100%25_local-no_API_calls-22d3ee)
 
-<img src="docs/dashboard.png" alt="Nexora dashboard" width="95%"/>
+<img src="docs/dashboard.png" alt="TalentLens dashboard" width="95%"/>
 
 </div>
 

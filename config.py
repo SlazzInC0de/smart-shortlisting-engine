@@ -22,7 +22,7 @@ def _find_jd_path() -> str:
 
     The hackathon doesn't guarantee a fixed JD filename (today it's
     Sample_JD.pdf, the real test JD could be named anything, e.g.
-    nexora_sample.pdf) -- so this scans the folder for any supported
+    job_description.pdf) -- so this scans the folder for any supported
     document instead of hardcoding a name. PDF/DOCX are preferred over
     plain text/other formats when more than one file is present; ties
     break alphabetically so the pick stays deterministic.
