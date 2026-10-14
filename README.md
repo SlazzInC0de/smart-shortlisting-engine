@@ -13,6 +13,7 @@ Built for the **InternLoom AI Hackathon** at MIT Bengaluru.
 ![Sentence Transformers](https://img.shields.io/badge/all--MiniLM--L6--v2-0f172a?logo=huggingface&logoColor=FFD21E)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0f172a?logo=scikitlearn&logoColor=F7931E)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0f172a?logo=streamlit&logoColor=FF4B4B)
+![Coverage](https://img.shields.io/badge/coverage-90%25-22c55e)
 ![Privacy](https://img.shields.io/badge/100%25_local-no_API_calls-22d3ee)
 
 <img src="docs/dashboard.png" alt="TalentLens dashboard" width="95%"/>
@@ -60,6 +61,29 @@ Both component scores are normalized to [0, 1]. Weights default to 50/50 and liv
 | 🟠 Partial Fit | final ≥ 0.30 |
 | 🔴 Low Fit | below 0.30 |
 
+## 🧪 Tests
+
+28 pytest cases, **90% line coverage** across the pipeline modules (`parsing`, `keyword_match`, `scoring`, `explain`, `bias_check`). The Streamlit UI and the thin model wrapper in `semantic_match.py` are not unit-tested; the embedder is replaced by a deterministic bag-of-words stand-in so the suite runs without torch in about 3 seconds.
+
+| Suite | Covers |
+|---|---|
+| `test_pipeline.py` | End-to-end ranking on a crafted batch: required vs preferred skills, final score equals the documented weighted sum, the best of several submissions represents a candidate, all 18 bundled resumes are ranked |
+| `test_parsing.py` | Text extraction from TXT, MD, DOCX, XML, JSON, HTML and RTF; scripts stripped from HTML; corrupt files return empty text instead of crashing; date normalisation; name fallback from file names |
+| `test_keyword_and_bias.py` | Typo tolerance, weighted keyword score, JD bias flags |
+
+## 🧭 Design decisions
+
+| Decision | Why | Trade-off / alternative |
+|---|---|---|
+| **Hybrid score** (keywords + embeddings) | Keywords catch the named tools a JD insists on; embeddings catch equivalent experience worded differently | Two signals to tune; the 50/50 default is a judgement call, exposed as a live slider |
+| **Fully local model** | Resumes are personal data; nothing leaves the machine and it runs offline after one download | A small model (MiniLM) is less nuanced than a hosted LLM |
+| **Curated skill dictionary** | Predictable, explainable matches with synonyms ("k8s" → Kubernetes) | New skills must be added by hand |
+| **Typo matching limited to adjacent swaps + a high fuzzy threshold** | Catches "Pyhton" without matching unrelated short words | Rarer misspellings are missed |
+| **Required skills weighted 2x** | A missing must-have should cost more than a missing nice-to-have | Depends on the JD using recognisable section headings |
+| **Best submission represents a candidate**, all kept | No silent drops or duplicate rows when someone sends two files | A recruiter must expand the row to see the others |
+| **Template-based explanations** | Deterministic and auditable; every sentence traces back to a score | Less fluent than generated prose |
+| **Heuristic bias scanner** | Flags known risky phrasing instantly, with reasons | Word lists, not a model; it can miss context and flag false positives |
+
 ## 🖥️ Dashboard tabs
 
 1. **Shortlist & Visual Analytics**: leaderboard plus keyword vs. semantic breakdown
@@ -84,8 +108,8 @@ Put one job description in `data/jd/` (any filename; PDF and DOCX are preferred 
 **Tests**
 
 ```bash
-pip install pytest
-pytest -v
+pip install pytest pytest-cov
+pytest -v --cov=keyword_match --cov=bias_check --cov=scoring --cov=explain --cov=parsing
 ```
 
 ## 📁 Project structure
