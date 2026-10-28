@@ -39,4 +39,4 @@ Out of scope: ranking quality or fairness disagreements (open a normal issue for
 
 ## Handling real resumes
 
-Resumes contain personal data. The sample resumes in `data/resumes/` are fictional. If you run TalentLens on real candidates, keep their files out of this repository and delete them when you no longer need them.
+Resumes contain personal data. The files in `data/resumes/` are demo samples. If you run TalentLens on real candidates, keep their files out of this repository and delete them when you no longer need them.

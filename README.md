@@ -22,6 +22,10 @@ Built for the **InternLoom AI Hackathon** at MIT Bengaluru.
 
 ---
 
+**Contents:** [Highlights](#-highlights) · [Scoring model](#-scoring-model) · [Tests](#-tests) · [Design decisions](#-design-decisions) · [Dashboard tabs](#️-dashboard-tabs) · [Run locally](#-run-locally) · [Project structure](#-project-structure) · [Hackathon](#-hackathon) · [Security and privacy](#-security-and-privacy) · [License](#-license)
+
+---
+
 ## ✨ Highlights
 
 | | |
@@ -132,6 +136,12 @@ smart-shortlisting-engine/
 ## 🏆 Hackathon
 
 The original submission and project report are in [`docs/hackathon/`](docs/hackathon/).
+
+## 🔒 Security and privacy
+
+- Everything runs on your machine. Resumes and job descriptions are never sent to an external API.
+- The files in `data/` are demo samples. Keep real candidates' resumes out of the repo.
+- Found a vulnerability? Please report it privately as described in [SECURITY.md](SECURITY.md).
 
 ## 📄 License
 
